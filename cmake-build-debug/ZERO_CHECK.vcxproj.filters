@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nicho\CLionProjects\Weightlifting-App\cmake-build-debug\CMakeFiles\268b1b2fcae4f1c3bcec905cb496226c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{54BDA952-1591-3F09-8EF5-6659E4F1F54A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

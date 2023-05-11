@@ -1,0 +1,10 @@
+^C:\USERS\NICHO\CLIONPROJECTS\WEIGHTLIFTING-APP\CMAKE-BUILD-DEBUG\CMAKEFILES\268B1B2FCAE4F1C3BCEC905CB496226C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -SC:/Users/nicho/CLionProjects/Weightlifting-App -BC:/Users/nicho/CLionProjects/Weightlifting-App/cmake-build-debug --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/nicho/CLionProjects/Weightlifting-App/cmake-build-debug/Weightlifting-App.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
